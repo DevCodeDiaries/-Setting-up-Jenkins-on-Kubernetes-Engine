@@ -24,7 +24,8 @@ The goal is to **enhance your learning**, not to bypass it.
 ## 🚨 Export the Zone Name Correctly
 
 ```bash
-export ZONE
+export ZONE=us-east1-c 
+
 ```
 # 🧪 Run the following commands in Google Cloud Shell
 ```bash
