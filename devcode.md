@@ -1,8 +1,7 @@
-# -Setting-up-Jenkins-on-Kubernetes-Engine
+
 # 🚀 Lab: Setting up Jenkins on Kubernetes Engine - GSP117
 
 **Lab Link:** [Google Cloud Skills Boost - GSP117](https://www.cloudskillsboost.google/focuses/1776?parent=catalog)  
-**📺 Lab Solution:** _Watch Here_
 
 ---
 
@@ -25,7 +24,7 @@ The goal is to **enhance your learning**, not to bypass it.
 ## 🚨 Export the Zone Name Correctly
 
 ```bash
-export ZONE=us-central1-a  # Replace with your assigned zone
+export ZONE=us-central1-a  
 ```
 # 🧪 Run the following commands in Google Cloud Shell
 ```bash
