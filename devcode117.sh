@@ -4,7 +4,7 @@ export PROJECT_ID=$(gcloud config get-value project)
 
 export PROJECT_ID=$DEVSHELL_PROJECT_ID
 
-export ZONE=us-central1-a  # Replace with your assigned zone
+export ZONE=us-east1-c  # Replace with your assigned zone
 gcloud config set compute/zone $ZONE
 
 git clone https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes.git
