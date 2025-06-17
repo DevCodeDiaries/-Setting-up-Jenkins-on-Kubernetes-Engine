@@ -28,9 +28,10 @@ export ZONE=
 
 ```
 # 🧪 Run the following commands in Google Cloud Shell
+## Updated Code!
 ```bash
-curl -LO https://raw.githubusercontent.com/DevCodeDiaries/GSP-Short-Trick/master/Setting%20up%20Jenkins%20on%20Kubernetes%20Engine/devcode117.sh
-sudo chmod +x devcode117.sh
-./devcode117.sh
+curl -LO raw.githubusercontent.com/Techcps/GSP-Short-Trick/master/Setting%20up%20Jenkins%20on%20Kubernetes%20Engine/techcps117.sh
+sudo chmod +x techcps117.sh
+./techcps117.sh
 ```
 🥳 Congratulations! You're done with the GSP117 Jenkins Lab.
